@@ -1,0 +1,23 @@
+.main-about {
+  background: var(--main-background);
+}
+
+.about-tag {
+  padding-top: 10rem;
+}
+
+.about-info {
+  text-align: center;
+}
+
+.about-info__card {
+  display: inline-block;
+  width: 20em;
+  text-align: center;
+  margin: 1em 2em;
+}
+
+.about-info__card svg {
+  width: 7em;
+  margin-bottom: 1em;
+}
